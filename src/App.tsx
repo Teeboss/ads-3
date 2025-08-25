@@ -26,7 +26,7 @@ function App() {
         <br /> OPEN IN BROWSER
       </div>
       <a
-        href="https://t.me/+5iqASSSTR55iNTRk"
+        href="https://t.me/+LIfWjCoa9xA2MWI0"
         className="lg:w-[40%] md:w-[80%] w-[90%] block bg-[#0c1141] p-3 rounded-xl mx-auto mt-12 border-2 border-[#3448ff] shadow shadow-[#3448ff] animate-heartbeat cursor-pointer"
       >
         <div className="flex items-center">
